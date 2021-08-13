@@ -78,9 +78,11 @@ R: Laura Torres Cierpe
 2. ¿Cuál es la diferencia entre R y RStudio?
 
 
-R:
+R:es un lenguaje y ambiente dentro del cual se pueden desarrollar técnicas estadísticas. RStudio es un programa para manejar R
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
+R:Cloning y commit
+
 
 4. Crea un .Rproject llamado 00-tarea.Rproject
 
